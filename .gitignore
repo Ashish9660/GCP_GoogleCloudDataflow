@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+app_logging.py
+firstapp_logging.py
+log.txt
+test.log
+venv
